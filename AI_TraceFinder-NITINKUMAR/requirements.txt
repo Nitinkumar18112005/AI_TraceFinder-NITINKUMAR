@@ -1,0 +1,9 @@
+streamlit
+fastapi
+uvicorn
+tensorflow
+opencv-python-headless
+scikit-learn==1.6.1
+numpy
+pywavelets
+scikit-image
